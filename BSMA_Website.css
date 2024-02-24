@@ -35,3 +35,16 @@ body{
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
+
+.team-videos {
+    text-align: center;
+}
+
+.team-videos video {
+    margin-bottom: 10px
+}
+
+.president {
+    width: 25px;
+    height: 50px;
+}
