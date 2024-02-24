@@ -1,0 +1,46 @@
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    
+    background-color: darkred;
+    height: 100px;
+    
+}
+
+#foot {
+    font-size: larger;
+    text-align: center;
+}
+
+h1 {
+    font-size: 84px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p {
+    font-size: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    background-color: grey;
+}
+
+#logo{
+    display: block;
+    margin: auto;
+}
+nav{
+    text-align: center;
+    padding-top: 0% ;
+}
