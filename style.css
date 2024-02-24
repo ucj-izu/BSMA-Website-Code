@@ -4,3 +4,16 @@
     box-sizing: border-box;
     font-family: 'Anton', sans-serif;
 }
+body{
+    background-color: #f2f2f2;
+
+}
+.heading{
+    width:90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+}
